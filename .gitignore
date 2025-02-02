@@ -31,13 +31,27 @@
 *.out
 *.app
 
-
 # Ignore all build files
 build/
 CMakeCache.txt
 CMakeFiles/
 Makefile
 cmake_install.cmake
-*.o
-*.out
-*.exe
+
+# Additional CMake temporary files
+CMakeScripts/
+Testing/
+CTestTestfile.cmake
+CPackConfig.cmake
+CPackSourceConfig.cmake
+install_manifest.txt
+
+# Logs & Debugging Files
+*.log
+*.trace
+
+# IDE-specific files
+.vscode/
+.idea/
+cmake-build-debug/
+cmake-build-release/
