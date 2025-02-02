@@ -137,7 +137,7 @@ make
 
 ---
 
-🎯 Contributing
+##🎯 Contributing
 If you want to contribute:
 
 Fork the repository

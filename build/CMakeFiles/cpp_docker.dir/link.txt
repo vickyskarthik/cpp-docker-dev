@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/cpp_docker.dir/src/main.cpp.o -o cpp_docker 
