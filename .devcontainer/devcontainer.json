@@ -1,0 +1,13 @@
+{
+    "name": "C++ Development",
+    "dockerFile": "../Dockerfile",
+    "extensions": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cmake-tools",
+        "ms-vscode.remote-containers"
+    ],
+    "settings": {
+        "terminal.integrated.defaultProfile.linux": "/bin/bash"
+    },
+    "workspaceFolder": "/workspace"
+}
